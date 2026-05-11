@@ -2,6 +2,13 @@
 
 ## 🚀 Data Analyst | SQL | Power BI | Excel
 
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Expert-blue" />
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Professional-orange" />
+</p>
+
 📍 Hyderabad, India  
 📧 platiakhil7376@gmail.com  
 
@@ -58,7 +65,11 @@ Developed employee analytics dashboards for workforce reporting.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilPlati&show_icons=true)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilPlati&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkhilPlati&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilPlati&layout=compact&theme=tokyonight)
 
 ---
 
