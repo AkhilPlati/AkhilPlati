@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;SQL+Developer;Power+BI+Dashboard+Creator;Excel+Automation+Expert;Business+Intelligence+Analyst" />
+</p>
 # 👋 Hi, I'm Ballani Akhil
 
 ## 🚀 Data Analyst | SQL | Power BI | Excel
@@ -8,7 +11,9 @@
   <img src="https://img.shields.io/badge/Excel-Advanced-green" />
   <img src="https://img.shields.io/badge/Data%20Analytics-Professional-orange" />
 </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AkhilPlati&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 📍 Hyderabad, India  
 📧 platiakhil7376@gmail.com  
 
